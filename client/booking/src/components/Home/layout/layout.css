@@ -1,0 +1,13 @@
+.main-content {
+  margin-top: 70px;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.main-container{
+  /* display: flex; */
+  border-radius: 6px;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: #252323;
+  background-color: white;
+}

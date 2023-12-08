@@ -1,0 +1,15 @@
+.doctor-container{
+    display: flex;
+    flex-direction: column;
+}
+.doctor-container img{
+    width: 10%;
+    height: 10%;
+}
+@media screen and (max-width: 768px) {
+    .doctor-container img{
+        width: 20%;
+        height: 20%;
+    }
+    
+}

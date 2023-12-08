@@ -1,0 +1,17 @@
+.outer-circle {
+    width: 26px;
+    height: 26px;
+    background: rgb(64, 215, 64);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .inner-circle {
+    width: 13px;
+    height: 13px;
+    background-color: white;
+    border-radius: 50%;
+  }
+  

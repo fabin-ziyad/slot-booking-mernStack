@@ -1,0 +1,22 @@
+/* Example CSS */
+.avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Adjust size as needed */
+    border-radius: 50%;
+    background-color: #ff6767; /* Add your desired background color */
+  }
+  
+  .initials {
+    font-size: 1.5rem; /* Adjust font size as needed */
+    color: #fff; /* Add your desired text color */
+    /* For vertical alignment */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* For horizontal alignment */
+    text-align: center;
+  }
+  
